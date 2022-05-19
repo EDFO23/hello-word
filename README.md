@@ -1,3 +1,3 @@
-# hello-word
+# HelloWorld.md
 My first repository using GitHub
-Hi, my name is Eduardo
+"##This is a markdown file"
